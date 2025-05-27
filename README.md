@@ -21,3 +21,9 @@ The chosen model for classification is Logistic Regression, a simple yet effecti
 The final output includes a confusion matrix heatmap and a detailed classification report, which offer a clear picture of how well the model is distinguishing between different crop labels. This machine learning pipeline is highly applicable in the field of precision agriculture, enabling farmers, agronomists, and AgriTech companies to make data-driven crop decisions based on environmental inputs.
 Designed to run on any standard Python environment with necessary libraries installed, this tool is ideal for agricultural research, educational projects, and real-world farming applications where crop selection is critical for maximizing yield and sustainability.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/82868d42-6414-4ccf-b332-ed0a383d5548)
+
+![Image](https://github.com/user-attachments/assets/005d4e37-45c2-4b24-b80b-41f674f469b2)
+
